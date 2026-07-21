@@ -1,6 +1,6 @@
 # Takumi Quant
 
-**High-performance quantitative trading infrastructure for digital asset markets.**
+**High-performance quantitative trading system for digital asset markets.**
 
 Takumi Quant is building a modular platform for systematic research, low-latency execution, risk management and algorithmic strategy deployment.
 
