@@ -2,7 +2,7 @@
 
 **High-performance quantitative trading system for digital asset markets.**
 
-Takumi Quant is building a modular platform for systematic research, low-latency execution, risk management and algorithmic strategy deployment.
+The system is a modular platform for systematic research, execution, risk management, and strategy deployment.
 
 ## What we are building
 
